@@ -1,0 +1,31 @@
+LOG NOTES:
+
+16 March 16:
+UPLOAD: -
+DO:
+*create project - done
+*create registration - done
+*create userprofiles table and migration - done
+*create userprofile edit page and save it - done
+
+18 March 16:
+DO:
+*finish dob
+*find user and display profile - done
+
+19 March 16:
+DO:
+*follow unfollow with follower following list
+
+20 March 16:
+DO:
+*business table and biz_details table and migration
+*add biz by user
+
+21 March 16:
+DO:
+*search biz and display its profile
+
+22 March 16:
+DO:
+*review table and migration
